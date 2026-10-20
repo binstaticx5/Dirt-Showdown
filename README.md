@@ -220,4 +220,4 @@ DiRT Showdown is available as a **full free version** with all features and upda
 Don't miss out on the thrilling experience of DiRT Showdown. **Download your copy today and start racing!**
 
 ---
-**Last updated:** 2026-10-20 19:00:04 UTC
+**Last updated:** 2026-10-20 22:14:30 UTC
